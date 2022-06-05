@@ -246,7 +246,7 @@
                 <div class="font t borderless" style="padding-top: 5px;">
                     <table class="table u font table-small-padding">
                         <tr class="font-till">
-                            <td><div class="cb font-blue">Freelance and contract work</div></td>
+                            <td><div class="cb font-blue">Freelance and short term contracts</div></td>
                             <td><div class="cb font-blue">2016 - now</div></td>
                         </tr>
                         <tr class="font-till">
@@ -327,35 +327,16 @@
                 <div class="font t borderless" style="padding-top: 5px;">
                     <table class="table u font table-small-padding">
                         <tr class="font-till">
-                            <td>
-                                <div class="cb" style="color: #FF8700;">Cauliflower Knight</div>
-                                <div class="cb" style="color: #04797A;">[Collaborative Final Uni Project UE4 C++]</div>
-                            </td>
+                            <td><div class="cb" style="color: #FF8700;">Cauliflower Knight</div></td>
                         </tr>
                         <tr class="font-till">
                             <td>
                                 <div class="cb" style="color: #888888;">
                                     &nbsp;&nbsp;This is the first project developed by <a href="https://walkover.games/"style="color: #295183;">Walkover Games</a>,
-                                    </br>&nbsp;&nbsp;Cauliflower Knight is a 3D puzzle platformer where player
-                                    </br>&nbsp;&nbsp;controls two characters to solve puzzles, traverse levels
-                                    </br>&nbsp;&nbsp;and combat foes
-                                </div>
-                            </td>
-                        </tr>
-                        <tr class="font-till">
-                            <td>
-                                <div class="cb" style="color: #FF8700;"></br>code name CN5V5</div>
-                                <div class="cb" style="color: #04797A;">[Rust + OpenGL]</div>
-                            </td>
-                        </tr>
-                        <tr class="font-till">
-                            <td>
-                                <div class="cb" style="color: #888888;">
-                                    &nbsp;&nbsp;This project is a mean of learning Rust and OpenGL while
-                                    </br>&nbsp;&nbsp;also expressing my love and passion of FPS games, the
-                                    </br>&nbsp;&nbsp;goal is to put fairness of competition and skill based
-                                    </br>&nbsp;&nbsp;gameplay above all else while also allowing high fps
-                                    </br>&nbsp;&nbsp;with low latency and low hardware requirements.
+                                    </br>&nbsp;&nbsp;Cauliflower Knight is a puzzle platformer where player
+                                    </br>&nbsp;&nbsp;controls two characters to solve puzzles, traverse
+                                    </br>&nbsp;&nbsp;levels and combat foes
+                                    </br>&nbsp;&nbsp;&nbsp;I toke a role of C++ programmer
                                 </div>
                             </td>
                         </tr>
